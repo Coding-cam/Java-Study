@@ -16,6 +16,7 @@ class Card {
 
 public class CardToString {
     public static void main(String[] agrs) {
+        
         Card c1 = new Card();
         Card c2 = new Card();
 
