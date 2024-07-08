@@ -10,6 +10,5 @@ public class HashCodeEx1 {
         System.out.println(str2.hashCode());
         System.out.println(System.identityHashCode(str1));
         System.out.println(System.identityHashCode(str2));
-
     }
 }
