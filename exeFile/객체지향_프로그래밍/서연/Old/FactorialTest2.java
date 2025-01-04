@@ -1,4 +1,4 @@
-package exeFile.객체지향_프로그래밍.서연;
+package exeFile.객체지향_프로그래밍.서연.Old;
 
 public class FactorialTest2 {
     static long factorial (int n){
