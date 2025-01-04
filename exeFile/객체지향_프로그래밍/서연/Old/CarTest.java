@@ -1,6 +1,4 @@
-package exeFile.객체지향_프로그래밍.서연;
-
-import org.w3c.dom.ls.LSOutput;
+package exeFile.객체지향_프로그래밍.서연.Old;
 
 class Car {
     String color;
